@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-💬 My name is Kurt Jayson Zacarias, Currently studying Computer Science. I've been creating, sharing, and contributing a lot on projects here to expand my knowledge and skills logically and programming.
+💬 My name is Kurt Jayson Zacarias, Currently studying Computer Science. I've been creating, sharing, and contributing a lot on projects here to expand my knowledge and skills logically and in programming.
 
 ### Project/s 💻
 - [Ev_Ap](https://github.com/TriangleBear/Ev_Ap) - An Open-Source Event Attendance Desktop App that lets you record attendance, add members, create event for attendance.
