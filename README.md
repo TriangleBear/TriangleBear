@@ -22,7 +22,7 @@
   
 - Project Mind Flow - An on-going unknown game project that will be revealed soon.
 
-### Stats
+### Stats 📊
 
 <div align="center">
 
