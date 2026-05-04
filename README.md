@@ -20,7 +20,7 @@
   
 - [ReDo](https://trianglebear.itch.io/redo-alpha) - A psychological horror platforming game that tackles brain activity and mental health (still on prototype).
   
-- Project Mind Flow - An on-going unknown game project that will be revealed soon.
+- Project Zero - An on-going unknown game project that will be revealed soon.
 
 ### Stats 📊
 
