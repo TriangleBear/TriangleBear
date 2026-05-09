@@ -9,6 +9,8 @@
 
 ### Project/s 💻
 - [Ev_Ap](https://github.com/TriangleBear/Ev_Ap) - An Open-Source Event Attendance Desktop App that lets you record attendance, add members, create event for attendance.
+
+- [Custom Extensions for Chrome by TriangleBear](https://github.com/TriangleBear/Extension-Chrome-TriangleBear) - A Custom Extensions made sole for Open Source and Expermentation
   
 - [Kuma's URL to QR Converter](https://github.com/TriangleBear/trianglebear.github.io) - A Straight to the point URL to QR Converter. No ads, just convert
 
