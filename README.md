@@ -12,7 +12,7 @@
 
 - [Custom Extensions for Chrome by TriangleBear](https://github.com/TriangleBear/Extension-Chrome-TriangleBear) - A Custom Extensions made sole for Open Source and Expermentation
   
-- [Kuma's URL to QR Converter](https://github.com/TriangleBear/trianglebear.github.io) - A Straight to the point URL to QR Converter. No ads, just convert
+- [Kuma's Tools](https://github.com/TriangleBear/trianglebear.github.io) - A Straight to the point Tools. No ads, just tools
 
 - [Cinema Ticketing System](https://github.com/TriangleBear/Cinema-Ticketing-System) - AOOP (Advance Object Oriented Programming) Project made in java
   
